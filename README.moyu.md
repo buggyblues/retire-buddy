@@ -81,6 +81,11 @@ pnpm install
 pnpm dev
 ```
 
+### 不想 clone？直接摸：**https://retire-buddy.vercel.app/**
+
+```
+```
+
 > 💡 小贴士：`pnpm dev` 启动后浏览器看起来很像一个正经的内部管理系统，放心摸。
 
 ---
